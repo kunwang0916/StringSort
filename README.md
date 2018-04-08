@@ -7,15 +7,15 @@ The purpose of this project is to enhance the learning outcome by doing a string
 
 ## Code
 
-All the code are in the folder [code](code), the code is dividing into 3 parts. the code was written in Java.
+All the code are in the folder [code](Code), the code is dividing into 3 parts. the code was written in Java.
 
-- [Data Generation](code/StringGen)
+- [Data Generation](Code/StringGen)
   - Using RandomGenerator program, it randomly generates strings with 97 characters each line. 
   - Combines the data and output to the file for sorting.
-- [Data Sort](code/StringSort)
+- [Data Sort](Code/StringSort)
   - Sorts data using string sort.  
   - The whole Sorting process is done using Hadoop map-reduce.
-- [Data Post - Validation Sort](code/StringValidate)
+- [Data Post - Validation Sort](Code/StringValidate)
   - Given the order of sorting used in sorting phase, it validates sorted data as per sorting order mentioned.
   - The whole Sorting process is done using hadoop map-reduce.
 
